@@ -1,0 +1,13 @@
+body{
+    font-size: 16 px;
+    margin: 8px;
+    max-width: 1024;
+}
+header nav ul li{
+    border: 1px solid red;
+    display: inline-block;
+    margin: 8px -2px;
+    padding: 8px 14px;
+    text-align: center;
+    width: 17.3%;
+}
